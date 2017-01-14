@@ -12,12 +12,12 @@ This should provide a better overview for all Teams, wich are helping in the eve
 * Basic conceptart and ideas
 * Basic App features and needs
 * Initialize Android projekt
-*	UI:
-	* Basic Workflow concept
-	* Basic Layouting
-*	Map:
- * Underlaying Picture or google Maps feed?
- * Draw on the Map
+* UI:
+  * Basic Workflow concept
+  * Basic Layouting
+* Map:
+  * Underlaying Picture or google Maps feed?
+  * Draw on the Map
 * Join new Event with QR Codes?
 * Peer to Peer Communication?
 * Blockchain for the Changes in the Map?
@@ -31,7 +31,9 @@ This should provide a better overview for all Teams, wich are helping in the eve
  * integrated Chat for communication (not sure yet)
 * Rejected:
  * none
-    
+
+The [Project Wiki](https://github.com/Lolerloli/TannenBApp/wiki) is the place to go if you search for a few more infos about this project.
+
 If YOU have some ideas for new fetures feel free to open an Issue with the enhancement Lable
 here: [New Idea](https://github.com/Lolerloli/TannenBApp/issues/new)
 
