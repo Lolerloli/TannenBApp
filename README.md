@@ -21,7 +21,7 @@ This should provide a better overview for all Teams, wich are helping in the eve
 * Join new Event with QR Codes?
 * Peer to Peer Communication?
 * Blockchain for the Changes in the Map?
-* Better name for the App than TannenBApp (Tannen Baum App)
+* Better name for the App than TannenBApp (Tannen Baum App) ¯\_(ツ)_/¯
 
 ###Suggestions:
 * Accepted:
