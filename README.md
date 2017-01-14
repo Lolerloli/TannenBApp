@@ -32,7 +32,8 @@ This should provide a better overview for all Teams, wich are helping in the eve
 * Rejected:
  * none
 
-The [Project Wiki](https://github.com/Lolerloli/TannenBApp/wiki) is the place to go if you search for a few more infos about this project.
+The [Project Wiki](https://github.com/Lolerloli/TannenBApp/wiki) is the place to go if you search for a few more infos about this project.  
+The current project status is visible [here](https://github.com/Lolerloli/TannenBApp/projects/1) or if you want to know what we are currently doing.
 
 If YOU have some ideas for new fetures feel free to open an Issue with the enhancement Lable
 here: [New Idea](https://github.com/Lolerloli/TannenBApp/issues/new)
